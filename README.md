@@ -118,7 +118,7 @@ The official constitution of the UNSW Security Society.
         o) Under no circumstances are any expenses to be met without documentation,
 
       3.9.5 Arc Delegate
-        a) To be aware of the Arc funding system, it's requirements and its possibilities for the club;
+        a) To be aware of the Arc funding system, its requirements and its possibilities for the club;
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
         c) To liaise with Arc and the club's Executive;
         d) To have a good working knowledge of Arc forms;
@@ -174,7 +174,7 @@ The official constitution of the UNSW Security Society.
       6.1.6 A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club;
       6.1.7 If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.
     6.2 Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-      6.2.1 Arc must give twenty (20) academic days notice in an official Arc publicationand in writing to the last known President before dissolving the club in this way.
+      6.2.1 Arc must give twenty (20) academic days notice in an official Arc publication and in writing to the last known President before dissolving the club in this way.
     6.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
 # 7 ADDITIONS
